@@ -27,3 +27,4 @@ Note: The Segment Saves from the original cannot be opened in the Remastered, th
 - NG+ Burning Shores Story (also for 100%) (ISO)
 - NG+ Burning Shores Ultra Hard (also for 100%) (ISO)
 - CE Save (Story) for Arena, Relic Ruins and Cauldrons (ISO)
+- Some Segment Saves for NG+ UH, NG+ BS Story (ISO)
