@@ -14,10 +14,12 @@ Save files provided by:
 #### Horizon Zero Dawn (Original)
 - Basic File for NG+ Speedrun (Aussie)
 - Starting file for NG+ TFW UH (Aussie)
-- Segment saves for NG+ Story and NG+ TFW UH (Aussie)
+- Segment Saves for NG+ Story and NG+ TFW UH (Aussie)
 
 #### Horizon Zero Dawn Remastered
 - Basic File for NG+ Speedrun (Aussie, reimported)
+
+Note: The Segment Saves from the original cannot be opened in the Remastered, they are saved in a too old version of the Original
 
 #### Horizon Forbidden West
 - NG+ Story (Greedy)
