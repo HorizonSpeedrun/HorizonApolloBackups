@@ -8,6 +8,7 @@ Save files provided by:
 - Aussie
 - Greedy
 - ISO
+- Scar
 
 ### Available files
 
@@ -22,9 +23,9 @@ Save files provided by:
 Note: The Segment Saves from the original cannot be opened in the Remastered, they are saved in a too old version of the Original
 
 #### Horizon Forbidden West
-- NG+ Story (Greedy)
+- NG+ Story (ISO)
 - NG+ Ultra Hard (ISO)
 - NG+ Burning Shores Story (also for 100%) (ISO)
 - NG+ Burning Shores Ultra Hard (also for 100%) (ISO)
-- CE Save (Story) for Arena, Relic Ruins and Cauldrons (ISO)
+- CE Saves (ISO, Scar)
 - Some Segment Saves for NG+ UH, NG+ BS Story (ISO)
