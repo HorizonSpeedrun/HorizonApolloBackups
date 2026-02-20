@@ -8,6 +8,7 @@ Some segment saves are available to test specific sections of the run:
 - NG+ UH
   - MQ Act 2: Aether - Kulrut
   - MQ Act 2: Poseidon - Wet Wiggle
+  - MQ Act 2: Thebes - TJ
   - MQ Act 3: Gemini
 - NG+ Burning Shores Story
   - MQ 3: Heaven's Rest - Dry Wiggle
